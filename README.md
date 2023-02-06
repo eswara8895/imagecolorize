@@ -5,9 +5,9 @@
     os.path
     opencv
 #command for installastion of modules
-pip install pysimpleGUI
-pip install os.path
-pip install opencv-python
+    pip install pysimpleGUI
+    pip install os.path
+    pip install opencv-python
 
 #for running program
-python code.py
+    python code.py
